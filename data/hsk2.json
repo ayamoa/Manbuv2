@@ -1,0 +1,587 @@
+{
+  "id": "hsk2",
+  "level": 2,
+  "title": "HSK 2",
+  "hanzi": "二级",
+  "tagline": "8 thematic chapters · one theme per day · the new words of HSK 2",
+  "chapters": [
+    {
+      "id": "c1", "emoji": "✈️", "short": "Travel",
+      "title": "Travel, Weather & Best Time",
+      "covers": "Lesson 1",
+      "intro": "Talking about trips, sports and the best season to go.",
+      "words": [
+        { "hanzi": "旅游", "pinyin": "lǚyóu", "mean": "to travel, trip" },
+        { "hanzi": "觉得", "pinyin": "juéde", "mean": "to think, to feel" },
+        { "hanzi": "最", "pinyin": "zuì", "mean": "most, -est (superlative)" },
+        { "hanzi": "为什么", "pinyin": "wèi shénme", "mean": "why" },
+        { "hanzi": "也", "pinyin": "yě", "mean": "also, too" },
+        { "hanzi": "运动", "pinyin": "yùndòng", "mean": "sport / to exercise" },
+        { "hanzi": "踢足球", "pinyin": "tī zúqiú", "mean": "to play football" },
+        { "hanzi": "一起", "pinyin": "yīqǐ", "mean": "together" },
+        { "hanzi": "要", "pinyin": "yào", "mean": "to want (plan / intention)" },
+        { "hanzi": "新", "pinyin": "xīn", "mean": "new" },
+        { "hanzi": "它", "pinyin": "tā", "mean": "it" },
+        { "hanzi": "眼睛", "pinyin": "yǎnjing", "mean": "eye" }
+      ],
+      "grammar": [
+        {
+          "title": "Auxiliary 要 (yào): want / plan",
+          "rule": "Expresses a desire or a plan — stronger than 想. Negative: 不想 / 不要.",
+          "examples": [
+            { "hanzi": "我要去北京旅游。", "pinyin": "Wǒ yào qù Běijīng lǚyóu.", "mean": "I want to travel to Beijing." }
+          ]
+        },
+        {
+          "title": "Superlative 最 (zuì)",
+          "rule": "Placed before an adjective or verb: 'the most / the -est'.",
+          "examples": [
+            { "hanzi": "九月去北京旅游最好。", "pinyin": "Jiǔ yuè qù Běijīng lǚyóu zuì hǎo.", "mean": "September is the best time to visit Beijing." }
+          ]
+        },
+        {
+          "title": "Approximate numbers: 几 and 多",
+          "rule": "几 + measure word = a few (< 10). 多 after the measure word for numbers < 10; 多 before the unit for tens.",
+          "examples": [
+            { "hanzi": "几个人", "pinyin": "jǐ ge rén", "mean": "a few people" },
+            { "hanzi": "六个多月", "pinyin": "liù ge duō yuè", "mean": "more than six months" },
+            { "hanzi": "二十多块钱", "pinyin": "èrshí duō kuài qián", "mean": "more than 20 yuan" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c2", "emoji": "🏃", "short": "Routine",
+      "title": "Daily Routine & Health",
+      "covers": "Lesson 2",
+      "intro": "Health, habits and your everyday routine.",
+      "words": [
+        { "hanzi": "生病", "pinyin": "shēng bìng", "mean": "to fall ill" },
+        { "hanzi": "每", "pinyin": "měi", "mean": "every, each" },
+        { "hanzi": "早上", "pinyin": "zǎoshang", "mean": "morning" },
+        { "hanzi": "跑步", "pinyin": "pǎo bù", "mean": "to run, jog" },
+        { "hanzi": "起床", "pinyin": "qǐ chuáng", "mean": "to get up" },
+        { "hanzi": "药", "pinyin": "yào", "mean": "medicine" },
+        { "hanzi": "身体", "pinyin": "shēntǐ", "mean": "body, health" },
+        { "hanzi": "出院", "pinyin": "chū yuàn", "mean": "to leave hospital" },
+        { "hanzi": "高", "pinyin": "gāo", "mean": "tall, high" },
+        { "hanzi": "米", "pinyin": "mǐ", "mean": "meter" },
+        { "hanzi": "知道", "pinyin": "zhīdào", "mean": "to know" },
+        { "hanzi": "休息", "pinyin": "xiūxi", "mean": "to rest" },
+        { "hanzi": "忙", "pinyin": "máng", "mean": "busy" },
+        { "hanzi": "时间", "pinyin": "shíjiān", "mean": "time" }
+      ],
+      "grammar": [
+        {
+          "title": "Confirming with 是不是",
+          "rule": "Used to confirm a guess. Placed before the predicate, or at the beginning / end of the sentence.",
+          "examples": [
+            { "hanzi": "你很少生病，是不是喜欢运动？", "pinyin": "Nǐ hěn shǎo shēng bìng, shì bu shì xǐhuān yùndòng?", "mean": "You seldom get sick — you like sports, don't you?" }
+          ]
+        },
+        {
+          "title": "每 (měi): every",
+          "rule": "每 + measure word / noun means 'every'.",
+          "examples": [
+            { "hanzi": "我每天六点起床。", "pinyin": "Wǒ měi tiān liù diǎn qǐ chuáng.", "mean": "I get up at six every day." }
+          ]
+        },
+        {
+          "title": "Asking degree with 多",
+          "rule": "多 + adjective asks about degree (height, age, distance…).",
+          "examples": [
+            { "hanzi": "你多高？", "pinyin": "Nǐ duō gāo?", "mean": "How tall are you?" },
+            { "hanzi": "我一米八。", "pinyin": "Wǒ yī mǐ bā.", "mean": "I'm 1.80 m." }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c3", "emoji": "🎨", "short": "Possession",
+      "title": "Possession, Colors & Locations",
+      "covers": "Lesson 3",
+      "intro": "Saying what's yours, describing colours and where things are.",
+      "words": [
+        { "hanzi": "手表", "pinyin": "shǒubiǎo", "mean": "watch" },
+        { "hanzi": "千", "pinyin": "qiān", "mean": "thousand" },
+        { "hanzi": "报纸", "pinyin": "bàozhǐ", "mean": "newspaper" },
+        { "hanzi": "送", "pinyin": "sòng", "mean": "to send, deliver, give" },
+        { "hanzi": "一下", "pinyin": "yīxià", "mean": "a bit (short action)" },
+        { "hanzi": "牛奶", "pinyin": "niúnǎi", "mean": "milk" },
+        { "hanzi": "房间", "pinyin": "fángjiān", "mean": "room" },
+        { "hanzi": "丈夫", "pinyin": "zhàngfu", "mean": "husband" },
+        { "hanzi": "旁边", "pinyin": "pángbiān", "mean": "beside, next to" },
+        { "hanzi": "真", "pinyin": "zhēn", "mean": "really (exclamation)" },
+        { "hanzi": "颜色", "pinyin": "yánsè", "mean": "color" },
+        { "hanzi": "左边", "pinyin": "zuǒbiān", "mean": "left side" },
+        { "hanzi": "红色", "pinyin": "hóngsè", "mean": "red" }
+      ],
+      "grammar": [
+        {
+          "title": "的 standing alone",
+          "rule": "Pronoun / adjective / verb + 的 can stand alone — the noun is omitted ('mine', 'the red one'…).",
+          "examples": [
+            { "hanzi": "这块手表是我的。", "pinyin": "Zhè kuài shǒubiǎo shì wǒ de.", "mean": "This watch is mine." }
+          ]
+        },
+        {
+          "title": "一下: short action",
+          "rule": "After a verb, 一下 indicates a brief action. Equivalent to verb reduplication.",
+          "examples": [
+            { "hanzi": "我看一下。", "pinyin": "Wǒ kàn yīxià.", "mean": "Let me have a look." }
+          ]
+        },
+        {
+          "title": "Exclamation with 真",
+          "rule": "真 + adjective expresses exclamation: 'really…!'",
+          "examples": [
+            { "hanzi": "你女儿的房间真漂亮！", "pinyin": "Nǐ nǚ'ér de fángjiān zhēn piàoliang!", "mean": "Your daughter's room is really beautiful!" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c4", "emoji": "👔", "short": "Introductions",
+      "title": "Introductions, Work, Age & Comparison",
+      "covers": "Lessons 4 & 11",
+      "intro": "Introducing people, comparing things, talking about age and work.",
+      "words": [
+        { "hanzi": "生日", "pinyin": "shēngrì", "mean": "birthday" },
+        { "hanzi": "快乐", "pinyin": "kuàilè", "mean": "happy" },
+        { "hanzi": "给", "pinyin": "gěi", "mean": "to, for (preposition)" },
+        { "hanzi": "接", "pinyin": "jiē", "mean": "to answer (a call), receive" },
+        { "hanzi": "晚上", "pinyin": "wǎnshang", "mean": "evening" },
+        { "hanzi": "问", "pinyin": "wèn", "mean": "to ask" },
+        { "hanzi": "非常", "pinyin": "fēicháng", "mean": "very, extremely" },
+        { "hanzi": "开始", "pinyin": "kāishǐ", "mean": "to begin, start" },
+        { "hanzi": "已经", "pinyin": "yǐjīng", "mean": "already" },
+        { "hanzi": "长", "pinyin": "cháng", "mean": "long" },
+        { "hanzi": "两", "pinyin": "liǎng", "mean": "two (with measure words)" },
+        { "hanzi": "帮", "pinyin": "bāng", "mean": "to help" },
+        { "hanzi": "介绍", "pinyin": "jièshào", "mean": "to introduce" },
+        { "hanzi": "唱歌", "pinyin": "chàng gē", "mean": "to sing" },
+        { "hanzi": "男", "pinyin": "nán", "mean": "male" },
+        { "hanzi": "女", "pinyin": "nǚ", "mean": "female" },
+        { "hanzi": "孩子", "pinyin": "háizi", "mean": "child" },
+        { "hanzi": "右边", "pinyin": "yòubiān", "mean": "right side" },
+        { "hanzi": "比", "pinyin": "bǐ", "mean": "than (comparison)" },
+        { "hanzi": "便宜", "pinyin": "piányi", "mean": "cheap" },
+        { "hanzi": "说话", "pinyin": "shuō huà", "mean": "to speak, talk" },
+        { "hanzi": "可能", "pinyin": "kěnéng", "mean": "maybe, probably" },
+        { "hanzi": "去年", "pinyin": "qùnián", "mean": "last year" },
+        { "hanzi": "姓", "pinyin": "xìng", "mean": "surname, to be surnamed" }
+      ],
+      "grammar": [
+        {
+          "title": "是…的: emphasis on the agent",
+          "rule": "Emphasizes who did an already-known action. Negative: 不是…的.",
+          "examples": [
+            { "hanzi": "这个工作是他帮我介绍的。", "pinyin": "Zhège gōngzuò shì tā bāng wǒ jièshào de.", "mean": "This job was recommended by him." }
+          ]
+        },
+        {
+          "title": "……的时候: 'when…'",
+          "rule": "Indicates the moment when something happens.",
+          "examples": [
+            { "hanzi": "我十一岁的时候开始踢足球。", "pinyin": "Wǒ shíyī suì de shíhou kāishǐ tī zúqiú.", "mean": "I started playing football when I was 11." }
+          ]
+        },
+        {
+          "title": "已经: already",
+          "rule": "Indicates completion, or that a degree has been reached.",
+          "examples": [
+            { "hanzi": "我已经踢了十年了。", "pinyin": "Wǒ yǐjīng tī le shí nián le.", "mean": "I've already been playing for ten years." }
+          ]
+        },
+        {
+          "title": "Comparison with 比",
+          "rule": "A + 比 + B + adjective (+ difference). Negative: A 没有 B + adjective. Degree of difference: 一点儿, 一些, 多, 得多.",
+          "examples": [
+            { "hanzi": "他比我大三岁。", "pinyin": "Tā bǐ wǒ dà sān suì.", "mean": "He is three years older than me." },
+            { "hanzi": "西瓜没有苹果便宜。", "pinyin": "Xīguā méiyǒu píngguǒ piányi.", "mean": "Watermelons are not as cheap as apples." }
+          ]
+        },
+        {
+          "title": "Verb phrase + 的 + noun",
+          "rule": "A verb phrase can modify a noun as an attributive.",
+          "examples": [
+            { "hanzi": "和你一起唱歌的人", "pinyin": "hé nǐ yīqǐ chàng gē de rén", "mean": "the person who sang with you" }
+          ]
+        },
+        {
+          "title": "可能: maybe",
+          "rule": "Expresses probability: perhaps, maybe.",
+          "examples": [
+            { "hanzi": "你可能不认识她。", "pinyin": "Nǐ kěnéng bù rènshi tā.", "mean": "You might not know her." }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c5", "emoji": "🛍️", "short": "Shopping",
+      "title": "Shopping, Clothes & Opinions",
+      "covers": "Lessons 5 & 8",
+      "intro": "Shopping for clothes, giving opinions, making plans.",
+      "words": [
+        { "hanzi": "外面", "pinyin": "wàimiàn", "mean": "outside" },
+        { "hanzi": "准备", "pinyin": "zhǔnbèi", "mean": "to prepare, plan" },
+        { "hanzi": "就", "pinyin": "jiù", "mean": "then, just (emphatic)" },
+        { "hanzi": "鱼", "pinyin": "yú", "mean": "fish" },
+        { "hanzi": "吧", "pinyin": "ba", "mean": "particle for suggestion" },
+        { "hanzi": "件", "pinyin": "jiàn", "mean": "measure word for clothes" },
+        { "hanzi": "还", "pinyin": "hái", "mean": "quite, fairly / still" },
+        { "hanzi": "可以", "pinyin": "kěyǐ", "mean": "not bad, OK / can" },
+        { "hanzi": "不错", "pinyin": "búcuò", "mean": "pretty good" },
+        { "hanzi": "考试", "pinyin": "kǎoshì", "mean": "test, exam" },
+        { "hanzi": "意思", "pinyin": "yìsi", "mean": "meaning" },
+        { "hanzi": "咖啡", "pinyin": "kāfēi", "mean": "coffee" },
+        { "hanzi": "对", "pinyin": "duì", "mean": "to, for (preposition)" },
+        { "hanzi": "以后", "pinyin": "yǐhòu", "mean": "later, after" },
+        { "hanzi": "再", "pinyin": "zài", "mean": "again (future)" },
+        { "hanzi": "让", "pinyin": "ràng", "mean": "to let, allow" },
+        { "hanzi": "告诉", "pinyin": "gàosu", "mean": "to tell" },
+        { "hanzi": "等", "pinyin": "děng", "mean": "to wait" },
+        { "hanzi": "找", "pinyin": "zhǎo", "mean": "to look for" },
+        { "hanzi": "事情", "pinyin": "shìqing", "mean": "matter, thing" },
+        { "hanzi": "服务员", "pinyin": "fúwùyuán", "mean": "attendant, waiter" },
+        { "hanzi": "白", "pinyin": "bái", "mean": "white" },
+        { "hanzi": "黑", "pinyin": "hēi", "mean": "black" },
+        { "hanzi": "贵", "pinyin": "guì", "mean": "expensive" }
+      ],
+      "grammar": [
+        {
+          "title": "就: resolution",
+          "rule": "就 + verb indicates a conclusion or resolution. 就是 can introduce a concession.",
+          "examples": [
+            { "hanzi": "就买这件吧。", "pinyin": "Jiù mǎi zhè jiàn ba.", "mean": "Just take this one then." },
+            { "hanzi": "颜色还可以，就是有点儿大。", "pinyin": "Yánsè hái kěyǐ, jiùshì yǒudiǎnr dà.", "mean": "The colour is OK, but it's a bit big." }
+          ]
+        },
+        {
+          "title": "还 + adjective: passable",
+          "rule": "还 + adjective = quite, fairly (acceptable).",
+          "examples": [
+            { "hanzi": "还可以。", "pinyin": "Hái kěyǐ.", "mean": "It's OK / not bad." }
+          ]
+        },
+        {
+          "title": "有点儿: slightly (negative)",
+          "rule": "有点儿 + adjective/verb = somewhat, usually with a negative connotation.",
+          "examples": [
+            { "hanzi": "这件衣服有点儿大。", "pinyin": "Zhè jiàn yīfu yǒudiǎnr dà.", "mean": "This garment is a bit large." }
+          ]
+        },
+        {
+          "title": "再: again (future)",
+          "rule": "Repetition or continuation in the future.",
+          "examples": [
+            { "hanzi": "明天下午再去吧。", "pinyin": "Míngtiān xiàwǔ zài qù ba.", "mean": "Let's go again tomorrow afternoon." }
+          ]
+        },
+        {
+          "title": "Pivotal sentences",
+          "rule": "Subject + verb1 + person + verb2: the object of the first verb performs the second. Common verbs: 请, 让, 叫.",
+          "examples": [
+            { "hanzi": "老师让我给大卫打个电话。", "pinyin": "Lǎoshī ràng wǒ gěi Dàwèi dǎ ge diànhuà.", "mean": "The teacher asked me to call David." }
+          ]
+        },
+        {
+          "title": "Verb reduplication",
+          "rule": "Indicates a short, casual action.",
+          "examples": [
+            { "hanzi": "你看看", "pinyin": "nǐ kànkan", "mean": "have a look" },
+            { "hanzi": "运动运动", "pinyin": "yùndong yùndong", "mean": "do some exercise" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c6", "emoji": "🍜", "short": "Food",
+      "title": "Food, Sports & Reasons",
+      "covers": "Lesson 6",
+      "intro": "Food, sports and saying why.",
+      "words": [
+        { "hanzi": "门", "pinyin": "mén", "mean": "door, gate" },
+        { "hanzi": "外", "pinyin": "wài", "mean": "outside" },
+        { "hanzi": "自行车", "pinyin": "zìxíngchē", "mean": "bicycle" },
+        { "hanzi": "羊肉", "pinyin": "yángròu", "mean": "mutton" },
+        { "hanzi": "好吃", "pinyin": "hǎochī", "mean": "delicious" },
+        { "hanzi": "面条", "pinyin": "miàntiáo", "mean": "noodles" },
+        { "hanzi": "打篮球", "pinyin": "dǎ lánqiú", "mean": "to play basketball" },
+        { "hanzi": "因为", "pinyin": "yīnwèi", "mean": "because" },
+        { "hanzi": "所以", "pinyin": "suǒyǐ", "mean": "so, therefore" },
+        { "hanzi": "游泳", "pinyin": "yóuyǒng", "mean": "to swim" },
+        { "hanzi": "经常", "pinyin": "jīngcháng", "mean": "often" },
+        { "hanzi": "公斤", "pinyin": "gōngjīn", "mean": "kilogram" },
+        { "hanzi": "姐姐", "pinyin": "jiějie", "mean": "elder sister" }
+      ],
+      "grammar": [
+        {
+          "title": "怎么 + verb: why (with surprise)",
+          "rule": "Asks for a reason, with a tone of surprise.",
+          "examples": [
+            { "hanzi": "你怎么不吃了？", "pinyin": "Nǐ zěnme bù chī le?", "mean": "Why aren't you eating anymore?" }
+          ]
+        },
+        {
+          "title": "Measure-word reduplication: every",
+          "rule": "Reduplicated nouns/measure words mean 'every / each', often with 都.",
+          "examples": [
+            { "hanzi": "这个星期天天都吃羊肉。", "pinyin": "Zhège xīngqī tiāntiān dōu chī yángròu.", "mean": "Every day this week I've been eating mutton." }
+          ]
+        },
+        {
+          "title": "因为…，所以…: cause and effect",
+          "rule": "因为 introduces the cause, 所以 the result.",
+          "examples": [
+            { "hanzi": "因为昨天下雨，所以我们都没去打篮球。", "pinyin": "Yīnwèi zuótiān xià yǔ, suǒyǐ wǒmen dōu méi qù dǎ lánqiú.", "mean": "Because it rained yesterday, we didn't go play basketball." }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c7", "emoji": "🚌", "short": "Directions",
+      "title": "Distance, Transport & Directions",
+      "covers": "Lessons 7 & 13",
+      "intro": "Getting around: distances, transport and directions.",
+      "words": [
+        { "hanzi": "教室", "pinyin": "jiàoshì", "mean": "classroom" },
+        { "hanzi": "机场", "pinyin": "jīchǎng", "mean": "airport" },
+        { "hanzi": "路", "pinyin": "lù", "mean": "road, way" },
+        { "hanzi": "离", "pinyin": "lí", "mean": "to be away from" },
+        { "hanzi": "公司", "pinyin": "gōngsī", "mean": "company" },
+        { "hanzi": "远", "pinyin": "yuǎn", "mean": "far" },
+        { "hanzi": "公共汽车", "pinyin": "gōnggòng qìchē", "mean": "bus" },
+        { "hanzi": "小时", "pinyin": "xiǎoshí", "mean": "hour" },
+        { "hanzi": "慢", "pinyin": "màn", "mean": "slow" },
+        { "hanzi": "快", "pinyin": "kuài", "mean": "fast, quick" },
+        { "hanzi": "走", "pinyin": "zǒu", "mean": "to walk" },
+        { "hanzi": "到", "pinyin": "dào", "mean": "to arrive, reach" },
+        { "hanzi": "过", "pinyin": "guò", "mean": "to pass (time) / experience marker" },
+        { "hanzi": "着", "pinyin": "zhe", "mean": "particle for ongoing state" },
+        { "hanzi": "手", "pinyin": "shǒu", "mean": "hand" },
+        { "hanzi": "拿", "pinyin": "ná", "mean": "to hold, take" },
+        { "hanzi": "铅笔", "pinyin": "qiānbǐ", "mean": "pencil" },
+        { "hanzi": "笑", "pinyin": "xiào", "mean": "to smile, laugh" },
+        { "hanzi": "宾馆", "pinyin": "bīnguǎn", "mean": "hotel" },
+        { "hanzi": "往", "pinyin": "wǎng", "mean": "towards (preposition)" },
+        { "hanzi": "路口", "pinyin": "lùkǒu", "mean": "crossing, intersection" }
+      ],
+      "grammar": [
+        {
+          "title": "还: still",
+          "rule": "Indicates continuation. Negative: 还没 (not yet).",
+          "examples": [
+            { "hanzi": "他还在教室学习呢。", "pinyin": "Tā hái zài jiàoshì xuéxí ne.", "mean": "He is still studying in the classroom." },
+            { "hanzi": "你还没吃饭吗？", "pinyin": "Nǐ hái méi chī fàn ma?", "mean": "You haven't eaten yet?" }
+          ]
+        },
+        {
+          "title": "就: early / fast",
+          "rule": "Emphasizes that something happens early, fast or smoothly.",
+          "examples": [
+            { "hanzi": "二十分钟就到。", "pinyin": "Èrshí fēnzhōng jiù dào.", "mean": "It gets there in just 20 minutes." }
+          ]
+        },
+        {
+          "title": "离: distance",
+          "rule": "A 离 B + 远/近: the distance between two places.",
+          "examples": [
+            { "hanzi": "你家离公司远吗？", "pinyin": "Nǐ jiā lí gōngsī yuǎn ma?", "mean": "Is your home far from your company?" }
+          ]
+        },
+        {
+          "title": "着: continuing state",
+          "rule": "Verb + 着 indicates a persisting state. Negative: 没…着. Question: …着没有?",
+          "examples": [
+            { "hanzi": "门开着呢。", "pinyin": "Mén kāi zhe ne.", "mean": "The door is open." },
+            { "hanzi": "开着没有？", "pinyin": "Kāi zhe méiyǒu?", "mean": "Is it open?" }
+          ]
+        },
+        {
+          "title": "呢: confirming with emphasis",
+          "rule": "At the end of a statement, confirms a fact with an exaggerated tone.",
+          "examples": [
+            { "hanzi": "坐公共汽车要一个多小时呢！", "pinyin": "Zuò gōnggòng qìchē yào yī ge duō xiǎoshí ne!", "mean": "It takes more than an hour by bus!" }
+          ]
+        },
+        {
+          "title": "不是…吗: rhetorical question",
+          "rule": "Reminds someone, or expresses confusion: 'isn't it…?'",
+          "examples": [
+            { "hanzi": "她不是有男朋友了吗？", "pinyin": "Tā bù shì yǒu nánpéngyou le ma?", "mean": "Doesn't she already have a boyfriend?" }
+          ]
+        },
+        {
+          "title": "往: direction",
+          "rule": "往 + direction + verb: towards.",
+          "examples": [
+            { "hanzi": "从这儿一直往前走。", "pinyin": "Cóng zhèr yīzhí wǎng qián zǒu.", "mean": "Walk straight ahead from here." }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c8", "emoji": "⏳", "short": "Experiences",
+      "title": "Past Experiences, Frequency & Future Plans",
+      "covers": "Lessons 9, 10, 12, 14 & 15",
+      "intro": "The grand finale: results, experiences, frequency and what's coming next.",
+      "words": [
+        { "hanzi": "错", "pinyin": "cuò", "mean": "wrong, incorrect" },
+        { "hanzi": "从", "pinyin": "cóng", "mean": "from (preposition)" },
+        { "hanzi": "跳舞", "pinyin": "tiào wǔ", "mean": "to dance" },
+        { "hanzi": "第一", "pinyin": "dì-yī", "mean": "first" },
+        { "hanzi": "希望", "pinyin": "xīwàng", "mean": "to hope" },
+        { "hanzi": "问题", "pinyin": "wèntí", "mean": "question, problem" },
+        { "hanzi": "欢迎", "pinyin": "huānyíng", "mean": "to welcome" },
+        { "hanzi": "上班", "pinyin": "shàng bān", "mean": "to go to work" },
+        { "hanzi": "懂", "pinyin": "dǒng", "mean": "to understand" },
+        { "hanzi": "完", "pinyin": "wán", "mean": "to finish" },
+        { "hanzi": "题", "pinyin": "tí", "mean": "question (exam)" },
+        { "hanzi": "课", "pinyin": "kè", "mean": "class, lesson" },
+        { "hanzi": "帮助", "pinyin": "bāngzhù", "mean": "to help, assistance" },
+        { "hanzi": "别", "pinyin": "bié", "mean": "don't! (imperative)" },
+        { "hanzi": "鸡蛋", "pinyin": "jīdàn", "mean": "egg" },
+        { "hanzi": "西瓜", "pinyin": "xīguā", "mean": "watermelon" },
+        { "hanzi": "正在", "pinyin": "zhèngzài", "mean": "in the process of" },
+        { "hanzi": "手机", "pinyin": "shǒujī", "mean": "cell phone" },
+        { "hanzi": "洗", "pinyin": "xǐ", "mean": "to wash" },
+        { "hanzi": "得", "pinyin": "de", "mean": "particle for degree complements" },
+        { "hanzi": "妻子", "pinyin": "qīzi", "mean": "wife" },
+        { "hanzi": "雪", "pinyin": "xuě", "mean": "snow" },
+        { "hanzi": "零", "pinyin": "líng", "mean": "zero" },
+        { "hanzi": "度", "pinyin": "dù", "mean": "degree (temperature)" },
+        { "hanzi": "穿", "pinyin": "chuān", "mean": "to wear" },
+        { "hanzi": "进", "pinyin": "jìn", "mean": "to enter" },
+        { "hanzi": "弟弟", "pinyin": "dìdi", "mean": "younger brother" },
+        { "hanzi": "近", "pinyin": "jìn", "mean": "near, close" },
+        { "hanzi": "但是", "pinyin": "dànshì", "mean": "but" },
+        { "hanzi": "虽然", "pinyin": "suīrán", "mean": "although" },
+        { "hanzi": "次", "pinyin": "cì", "mean": "time (frequency)" },
+        { "hanzi": "玩儿", "pinyin": "wánr", "mean": "to play, have fun" },
+        { "hanzi": "晴", "pinyin": "qíng", "mean": "sunny, clear" },
+        { "hanzi": "百", "pinyin": "bǎi", "mean": "hundred" },
+        { "hanzi": "日", "pinyin": "rì", "mean": "day, date" },
+        { "hanzi": "新年", "pinyin": "xīnnián", "mean": "New Year" },
+        { "hanzi": "票", "pinyin": "piào", "mean": "ticket" },
+        { "hanzi": "火车站", "pinyin": "huǒchēzhàn", "mean": "railway station" },
+        { "hanzi": "大家", "pinyin": "dàjiā", "mean": "everybody" },
+        { "hanzi": "更", "pinyin": "gèng", "mean": "more (comparative)" },
+        { "hanzi": "妹妹", "pinyin": "mèimei", "mean": "younger sister" },
+        { "hanzi": "阴", "pinyin": "yīn", "mean": "overcast, cloudy" }
+      ],
+      "grammar": [
+        {
+          "title": "Result complements",
+          "rule": "A verb/adjective after the verb indicates the result: 看见, 听懂, 做完. Negative: 没 + verb + complement. Question: …(了)没有?",
+          "examples": [
+            { "hanzi": "我没做完。", "pinyin": "Wǒ méi zuòwán.", "mean": "I didn't finish." },
+            { "hanzi": "你做完了没有？", "pinyin": "Nǐ zuòwán le méiyǒu?", "mean": "Have you finished?" }
+          ]
+        },
+        {
+          "title": "从: starting point",
+          "rule": "从 marks the starting point in time, place or sequence. Often paired with 到.",
+          "examples": [
+            { "hanzi": "从下个星期一开始上班。", "pinyin": "Cóng xià ge xīngqī yī kāishǐ shàng bān.", "mean": "I start work from next Monday." }
+          ]
+        },
+        {
+          "title": "第: order",
+          "rule": "第 + number (+ measure word): first, second…",
+          "examples": [
+            { "hanzi": "第一次跳舞", "pinyin": "dì-yī cì tiào wǔ", "mean": "the first time dancing" }
+          ]
+        },
+        {
+          "title": "Prohibition: 别…了 / 不要…了",
+          "rule": "Dissuades or forbids: 'don't… anymore', 'stop…'.",
+          "examples": [
+            { "hanzi": "不要看电视了。", "pinyin": "Bùyào kàn diànshì le.", "mean": "Don't watch TV anymore." },
+            { "hanzi": "别找了。", "pinyin": "Bié zhǎo le.", "mean": "Stop looking." }
+          ]
+        },
+        {
+          "title": "对: towards / for",
+          "rule": "Indicates a subject–target relation.",
+          "examples": [
+            { "hanzi": "看电视对学汉语有帮助。", "pinyin": "Kàn diànshì duì xué Hànyǔ yǒu bāngzhù.", "mean": "Watching TV helps with learning Chinese." }
+          ]
+        },
+        {
+          "title": "Degree complements with 得",
+          "rule": "Verb + 得 + adjective evaluates the action. With an object: 他汉语说得很好. Negative: 说得不好. Question: 说得好不好? 比 can be used inside.",
+          "examples": [
+            { "hanzi": "他说得很好。", "pinyin": "Tā shuō de hěn hǎo.", "mean": "He speaks very well." },
+            { "hanzi": "他比我学得好。", "pinyin": "Tā bǐ wǒ xué de hǎo.", "mean": "He studies better than me." }
+          ]
+        },
+        {
+          "title": "Experience with 过",
+          "rule": "Verb + 过 indicates a past experience. Negative: 没…过. Frequency: 次.",
+          "examples": [
+            { "hanzi": "你看过那个电影没有？", "pinyin": "Nǐ kàn guò nàge diànyǐng méiyǒu?", "mean": "Have you seen that movie?" },
+            { "hanzi": "我去过三次北京。", "pinyin": "Wǒ qù guò sān cì Běijīng.", "mean": "I've been to Beijing three times." }
+          ]
+        },
+        {
+          "title": "虽然…，但是…: although",
+          "rule": "Concession: although…, but…",
+          "examples": [
+            { "hanzi": "虽然是晴天，但是很冷。", "pinyin": "Suīrán shì qíngtiān, dànshì hěn lěng.", "mean": "Although it's sunny, it's cold." }
+          ]
+        },
+        {
+          "title": "Imminent action: 要…了",
+          "rule": "要…了 / 快要…了 / 就要…了: something is about to happen. With a time adverbial, use 就要…了.",
+          "examples": [
+            { "hanzi": "新年就要到了。", "pinyin": "Xīnnián jiù yào dào le.", "mean": "The New Year is coming." }
+          ]
+        },
+        {
+          "title": "都…了: already (emphatic)",
+          "rule": "Means 'already' with a complaining or emphatic tone.",
+          "examples": [
+            { "hanzi": "都八点四十了！", "pinyin": "Dōu bā diǎn sìshí le!", "mean": "It's already 8:40!" }
+          ]
+        }
+      ]
+    }
+  ],
+  "memo": {
+    "structuresTitle": "The 5 must-know structures for HSK 2",
+    "tonesTitle": "Pronunciation lab — word stress & intonation",
+    "pitfallsTitle": "The 5 pitfalls that fail HSK 2",
+    "structures": [
+      { "name": "是…的 (emphasis on agent)", "rule": "Subject + 是 + agent + verb + 的.", "example": { "hanzi": "这个工作是他帮我介绍的。", "pinyin": "Zhège gōngzuò shì tā bāng wǒ jièshào de.", "mean": "This job was recommended by him." } },
+      { "name": "比 (comparison)", "rule": "A + 比 + B + adjective (+ difference).", "example": { "hanzi": "他比我大三岁。", "pinyin": "Tā bǐ wǒ dà sān suì.", "mean": "He is three years older than me." } },
+      { "name": "得 (degree complement)", "rule": "Verb + 得 + adjective.", "example": { "hanzi": "他说得很好。", "pinyin": "Tā shuō de hěn hǎo.", "mean": "He speaks very well." } },
+      { "name": "过 (experience)", "rule": "Verb + 过 (+ object): a past experience.", "example": { "hanzi": "我去过中国。", "pinyin": "Wǒ qù guò Zhōngguó.", "mean": "I've been to China." } },
+      { "name": "要…了 (imminent)", "rule": "Subject + 要 + verb + 了: about to happen.", "example": { "hanzi": "新年要到了。", "pinyin": "Xīnnián yào dào le.", "mean": "The New Year is coming." } }
+    ],
+    "tones": [
+      { "rule": "Disyllabic words: most stress the 2nd syllable (中重); a few stress the 1st (重轻)", "example": { "hanzi": "东西／窗户", "pinyin": "dōngxi / chuānghu" } },
+      { "rule": "Trisyllabic words: usually medium–light–stressed (中轻重)", "example": { "hanzi": "收音机", "pinyin": "shōuyīnjī" } },
+      { "rule": "Quadrisyllabic words: stress usually falls on the 4th syllable", "example": { "hanzi": "公共汽车", "pinyin": "gōnggòng qìchē" } },
+      { "rule": "Intonation: statements fall · 吗-questions rise · question words are stressed then fall · with 还是, first option rises, second falls", "example": { "hanzi": "你去还是我去？", "pinyin": "Nǐ qù háishi wǒ qù?" } }
+    ],
+    "pitfalls": [
+      { "title": "要 vs 想", "tip": "要 = want (plan / intention); 想 = would like (desire). Both are auxiliaries, but 要 is stronger.", "example": { "hanzi": "我要去北京。／我想喝茶。", "pinyin": "Wǒ yào qù Běijīng. / Wǒ xiǎng hē chá." } },
+      { "title": "还 vs 再", "tip": "还 = still (continuation); 再 = again (future repetition).", "example": { "hanzi": "他还在教室。／明天再来。", "pinyin": "Tā hái zài jiàoshì. / Míngtiān zài lái." } },
+      { "title": "就 (time)", "tip": "就 emphasizes 'early / fast' — often with 了: 二十分钟就到了.", "example": { "hanzi": "二十分钟就到了。", "pinyin": "Èrshí fēnzhōng jiù dào le." } },
+      { "title": "得 vs 的 vs 地", "tip": "得 for complements; 的 for possession / attributive; 地 for adverbials (地 is not in HSK 2).", "example": { "hanzi": "说得好／我的书", "pinyin": "shuō de hǎo / wǒ de shū" } },
+      { "title": "了 (le) position", "tip": "At the end of the sentence = change / completion; after the verb = completion (with an object).", "example": { "hanzi": "我去商店了。／我买了书。", "pinyin": "Wǒ qù shāngdiàn le. / Wǒ mǎi le shū." } }
+    ]
+  },
+  "production": [
+    { "prompt": "When is the best time to travel to Beijing?", "answer": { "hanzi": "九月去北京旅游最好。", "pinyin": "Jiǔ yuè qù Běijīng lǚyóu zuì hǎo." } },
+    { "prompt": "I get up at six every day.", "answer": { "hanzi": "我每天六点起床。", "pinyin": "Wǒ měi tiān liù diǎn qǐ chuáng." } },
+    { "prompt": "Is this watch yours?", "answer": { "hanzi": "这块手表是你的吗？", "pinyin": "Zhè kuài shǒubiǎo shì nǐ de ma?" } },
+    { "prompt": "He recommended this job for me.", "answer": { "hanzi": "这个工作是他帮我介绍的。", "pinyin": "Zhège gōngzuò shì tā bāng wǒ jièshào de." } },
+    { "prompt": "Why don't you eat anymore?", "answer": { "hanzi": "你怎么不吃了？", "pinyin": "Nǐ zěnme bù chī le?" } },
+    { "prompt": "Do you live far from your company?", "answer": { "hanzi": "你家离公司远吗？", "pinyin": "Nǐ jiā lí gōngsī yuǎn ma?" } },
+    { "prompt": "The door is open.", "answer": { "hanzi": "门开着呢。", "pinyin": "Mén kāi zhe ne." } },
+    { "prompt": "Have you seen that movie?", "answer": { "hanzi": "你看过那个电影吗？", "pinyin": "Nǐ kàn guò nàge diànyǐng ma?" } },
+    { "prompt": "The New Year is coming.", "answer": { "hanzi": "新年就要到了。", "pinyin": "Xīnnián jiù yào dào le." } }
+  ]
+}

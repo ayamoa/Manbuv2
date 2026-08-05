@@ -1,0 +1,11 @@
+{
+  "app": { "name": "HSK Atelier", "hanzi": "汉语工坊", "version": "2.1" },
+  "levels": [
+    { "id": "hsk1", "file": "data/hsk1.json", "level": 1, "hanzi": "一级", "available": true,  "words": 159,  "desc": "The foundations: greetings, family, shopping, weather… 8 thematic chapters." },
+    { "id": "hsk2", "file": "data/hsk2.json", "level": 2, "hanzi": "二级", "available": true, "words": 300, "desc": "Expanding daily life: travel, hobbies, plans." },
+    { "id": "hsk3", "file": "data/hsk3.json", "level": 3, "hanzi": "三级", "available": false, "words": 600,  "desc": "Real life: opinions, stories, comparisons." },
+    { "id": "hsk4", "file": "data/hsk4.json", "level": 4, "hanzi": "四级", "available": false, "words": 1200, "desc": "Discussing, arguing, adding nuance." },
+    { "id": "hsk5", "file": "data/hsk5.json", "level": 5, "hanzi": "五级", "available": false, "words": 2500, "desc": "Reading the press, speaking fluently." },
+    { "id": "hsk6", "file": "data/hsk6.json", "level": 6, "hanzi": "六级", "available": false, "words": 5000, "desc": "Near-native: literary and abstract texts." }
+  ]
+}
